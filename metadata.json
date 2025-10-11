@@ -1,6 +1,6 @@
 {
   "app_name": "Device Info",
-  "description": "evice information display showing hardware details and memory statistics",
+  "description": "Device information display showing hardware details and memory statistics",
   "files": [
     "DeviceInfo.js"
   ]
