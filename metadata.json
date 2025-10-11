@@ -3,6 +3,9 @@
   "description": "Device information display showing hardware details and memory statistics",
   "category": "Tools",
   "files": [
-    "DeviceInfo.js"
+    {
+      "source": "DeviceInfo.js",
+      "destination": "DeviceInfo.js"
+    }
   ]
 }
