@@ -45,4 +45,4 @@ Device information display showing hardware details and memory statistics.
 
 ## Installation
 
-Place the `DeviceInfo.js` file in your Bruce device's `/scripts` directory and run it through the `JS Interpreter` menu.
+Place the `Device Info.js` file in your Bruce device's `/scripts` directory and run it through the `JS Interpreter` menu.

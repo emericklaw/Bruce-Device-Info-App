@@ -4,8 +4,8 @@
   "category": "Tools",
   "files": [
     {
-      "source": "DeviceInfo.js",
-      "destination": "DeviceInfo.js"
+      "source": "Device Info.js",
+      "destination": "Device Info.js"
     }
   ]
 }
